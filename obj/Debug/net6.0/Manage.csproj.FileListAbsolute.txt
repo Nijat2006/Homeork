@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\aplecation\Manage\obj\Debug\net6.0\Manage.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\aplecation\Manage\obj\Debug\net6.0\Manage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\aplecation\Manage\obj\Debug\net6.0\Manage.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\aplecation\Manage\obj\Debug\net6.0\Manage.AssemblyInfo.cs
+C:\Users\HP\source\repos\aplecation\Manage\obj\Debug\net6.0\Manage.csproj.CoreCompileInputs.cache
